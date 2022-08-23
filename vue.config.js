@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   outputDir: path.resolve(__dirname, './server/src/app/'),
   pwa: {
-    name: 'Media Manager',
+    name: 'Aworld Manager',
     themeColor: '#9013FE',
     msTileColor: '#50E3C2'
   },
